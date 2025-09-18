@@ -1,2 +1,2 @@
 # E-COMMERCE
-A website of gaming product where one can buy main gaming materials. This Website is made only using PHP and Tailwind CSS and if you want to be admin there is a MYSQL code given and simply change yourname and login.
+This website is made by using PHP and Tailwind CSS. This is a E-Commerce site selling gaming product. One can be admin simply by going on database sql and change update command set admin. PLEASE USE XAMPP to operate this website.
