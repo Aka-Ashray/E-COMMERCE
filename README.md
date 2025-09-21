@@ -5,6 +5,7 @@ Your One-Stop Shop for Premium Computer Parts
 CODE IS PROVIDED BUT CHANGE THE UPDATE COMMAND FOR ADMIN AND USE THE NAME YOU SETUP IN THAT COMMAND
 
 Features
+
 Homepage – Shows featured computer parts, new arrivals, and offers.
 
 Product Catalog – List of products (like CPU, GPU, RAM, etc.) with price, description, and images.
