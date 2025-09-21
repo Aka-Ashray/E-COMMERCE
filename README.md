@@ -4,7 +4,7 @@ Replicates how one online shooping site are made
 Your One-Stop Shop for Premium Computer Parts
 CODE IS PROVIDED BUT CHANGE THE UPDATE COMMAND FOR ADMIN AND USE THE NAME YOU SETUP IN THAT COMMAND
 
-Features
+Features:-
 
 Homepage – Shows featured computer parts, new arrivals, and offers.
 
